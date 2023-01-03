@@ -1,5 +1,10 @@
 # User Login Code Challenge
 
+Using a JavaScript framework of your choice (preferably [React](https://reactjs.org/)), create a simple login screen that allows users to enter their username and password and submit the login form to a backend process.
+
+Using [GoLang](https://go.dev/), create a backend that processes the login information and checks if the username and password are valid. If the login information is valid, the backend should return a success message to the user. If the login information is invalid, the backend should return an error message to the user.
+
+
 ## Instructions
 1. Click "Use this template" to create a copy of this repository in your personal github account.  
 1. Update the README in your new repo with:
@@ -13,7 +18,3 @@
 1. Within reason, treat your solution as if it would become a production system.
 1. If you have any questions, feel free to contact us at code_challenge@scoir.com
 
-## Assignment
-Using a JavaScript framework of your choice (preferably [React](https://reactjs.org/)), create a simple login screen that allows users to enter their username and password and submit the login form to a backend process.
-
-Using [GoLang](https://go.dev/), create a backend that processes the login information and checks if the username and password are valid. If the login information is valid, the backend should return a success message to the user. If the login information is invalid, the backend should return an error message that is displayed to the user.
